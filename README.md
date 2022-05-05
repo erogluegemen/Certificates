@@ -48,7 +48,10 @@ Certificates that I have earned from trainings, bootcamps, webinars and etc.
 - [Koc University Economy](https://github.com/erogluegemen/Certificates/files/8598050/KocUniversity_Economy.pdf)
 
 ## Patika.dev Certificates
+- [Patikadev Data Science Beginner](https://github.com/erogluegemen/Certificates/files/8633869/Beginner_DataScience_patikadev.pdf)
 - [Patikadev Data Science Intermediate](https://github.com/erogluegemen/Certificates/files/8598052/patikadev_DataScience_Intermediate.pdf)
+- [Patikadec Data Analysis](https://github.com/erogluegemen/Certificates/files/8633877/DataAnalysis_patikadev.pdf)
+- [Patikadev Data Science for the Public Good](https://github.com/erogluegemen/Certificates/files/8633878/DataScience_for_the_public_good_patikadev.pdf)
 
 ## Udemy Certificates
 - [Udemy Ethical Hacking Introduction to Exploit](https://github.com/erogluegemen/Certificates/files/8598053/Udemy_Ethical_Hacking_Introduction_to_Exploit.pdf)
