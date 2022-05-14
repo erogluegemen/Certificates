@@ -37,6 +37,8 @@ Certificates that I have earned from trainings, bootcamps, webinars and etc.
 - [Kaggle Data Visualization](https://github.com/erogluegemen/Certificates/files/8598009/kaggle_Data_Visualization.pdf)
 - [Kaggle Pandas](https://github.com/erogluegemen/Certificates/files/8598010/kaggle_pandas.pdf)
 - [Kaggle Data Cleaning](https://github.com/erogluegemen/Certificates/files/8598011/kaggle_Data_Cleaning.pdf)
+- [Kaggle Intro to Machine Learning](https://github.com/erogluegemen/Certificates/files/8693711/kaggle_Intro_to_MachineLearning.pdf)
+
 
 ## Bogazici University Certificates
 - [Bogazici Data Camp](https://github.com/erogluegemen/Certificates/files/8598047/Bogazici_DataCamp.pdf)
