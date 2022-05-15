@@ -64,6 +64,8 @@ Certificates that I have earned from trainings, bootcamps, webinars and etc.
 
 ## HackerRank Certificates
 - [HackerRank Python](https://github.com/erogluegemen/Certificates/files/8598059/hackerrank_python.pdf)
+- [HackerRank SQL](https://github.com/erogluegemen/Certificates/files/8695697/HackerRank_SQL.pdf)
+
 
 ## Turkcell Certificates
 - [Turkcell Linux 101](https://github.com/erogluegemen/Certificates/files/8598013/Turkcell_Linux.pdf)
