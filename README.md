@@ -62,7 +62,7 @@ Certificates that I have earned from trainings, bootcamps, webinars and etc.
 - [Udemy Cyber Security](https://github.com/erogluegemen/Certificates/files/8598054/Udemy_CyberSecurity.pdf)
 
 ## IBB Certificates
-- [IBB Yapay Zeka](https://github.com/erogluegemen/Certificates/files/8598057/IBB_YapayZeka.pdf)
+- [IBB Artificial Intelligence](https://github.com/erogluegemen/Certificates/files/8598057/IBB_YapayZeka.pdf)
 
 ## HackerRank Certificates
 - [HackerRank Python](https://github.com/erogluegemen/Certificates/files/8598059/hackerrank_python.pdf)
