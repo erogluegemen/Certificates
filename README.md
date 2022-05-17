@@ -4,7 +4,7 @@ Certificates that I have earned from trainings, bootcamps, webinars and etc.
 ## BTK Certificates
 - [BTK Introduction to Information Technologies](https://github.com/erogluegemen/Certificates/files/8597966/btkakademi_bilgi_teknolojileri.giris.pdf)
 - [BTK HTML](https://github.com/erogluegemen/Certificates/files/8597968/btkakademi_html5.pdf)
-- [BTK Python.pdf](https://github.com/erogluegemen/Certificates/files/8597969/btkakademi_python.2.pdf)
+- [BTK Python](https://github.com/erogluegemen/Certificates/files/8597969/btkakademi_python.2.pdf)
 - [BTK Python with Machine Learning](https://github.com/erogluegemen/Certificates/files/8597970/btkakademi_Python_ile_Makine_Ogrenmesi_Sertifika.pdf)
 - [BTK Data Science with R](https://github.com/erogluegemen/Certificates/files/8597976/btkakademi_R_ile_veri_bilimi.pdf)
 - [BTK Basic Network Technologies](https://github.com/erogluegemen/Certificates/files/8597979/btkakademi_temel_ag_teknolojileri.pdf)
