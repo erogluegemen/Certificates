@@ -2,16 +2,18 @@
 Certificates that I have earned from trainings, bootcamps, webinars and etc.
 
 ## BTK Certificates
-- [BTK Akademi Introduction to Information Technologies](https://github.com/erogluegemen/Certificates/files/8597966/btkakademi_bilgi_teknolojileri.giris.pdf)
-- [BTK Akademi HTML](https://github.com/erogluegemen/Certificates/files/8597968/btkakademi_html5.pdf)
-- [BTK Akademi Python.pdf](https://github.com/erogluegemen/Certificates/files/8597969/btkakademi_python.2.pdf)
-- [BTK Akademi Python with Machine Learning](https://github.com/erogluegemen/Certificates/files/8597970/btkakademi_Python_ile_Makine_Ogrenmesi_Sertifika.pdf)
-- [BTK Akademi Data Science with R](https://github.com/erogluegemen/Certificates/files/8597976/btkakademi_R_ile_veri_bilimi.pdf)
-- [BTK Akademi Basic Network Technologies](https://github.com/erogluegemen/Certificates/files/8597979/btkakademi_temel_ag_teknolojileri.pdf)
-- [BTK Akademi Data Science with Python](https://github.com/erogluegemen/Certificates/files/8597981/btkakademi_veribilim_python.pdf)
-- [BTK Akademi Artificial Intelligence](https://github.com/erogluegemen/Certificates/files/8597982/btkakademi_yapay_zeka.pdf)
+- [BTK Introduction to Information Technologies](https://github.com/erogluegemen/Certificates/files/8597966/btkakademi_bilgi_teknolojileri.giris.pdf)
+- [BTK HTML](https://github.com/erogluegemen/Certificates/files/8597968/btkakademi_html5.pdf)
+- [BTK Python.pdf](https://github.com/erogluegemen/Certificates/files/8597969/btkakademi_python.2.pdf)
+- [BTK Python with Machine Learning](https://github.com/erogluegemen/Certificates/files/8597970/btkakademi_Python_ile_Makine_Ogrenmesi_Sertifika.pdf)
+- [BTK Data Science with R](https://github.com/erogluegemen/Certificates/files/8597976/btkakademi_R_ile_veri_bilimi.pdf)
+- [BTK Basic Network Technologies](https://github.com/erogluegemen/Certificates/files/8597979/btkakademi_temel_ag_teknolojileri.pdf)
+- [BTK Data Science with Python](https://github.com/erogluegemen/Certificates/files/8597981/btkakademi_veribilim_python.pdf)
+- [BTK Artificial Intelligence](https://github.com/erogluegemen/Certificates/files/8597982/btkakademi_yapay_zeka.pdf)
 - [BTK Introduction to Communication Systems](https://github.com/erogluegemen/Certificates/files/8598038/BTK.Introduction.to.Communication.Systems.pdf)
 - [BTK Git & Github Version Control System](https://github.com/erogluegemen/Certificates/files/8598043/BTK.Git.Github.Version.Control.System.pdf)
+- [BTK SQL](https://github.com/erogluegemen/Certificates/files/8705929/btkakademi_sql.pdf)
+
 
 ## GlobalAIHub Certificates
 - [GlobalAIHub CoreMember Sertificate](https://github.com/erogluegemen/Certificates/files/8597988/GlobalAIHub_CoreMember_Sertificate.pdf)
